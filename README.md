@@ -9,7 +9,7 @@ mobile-JSTechs connected with node-api API
     <img src="/assets/App.png">
 </p>
 
-# Visualize the github tech profile on a webview
+# View the github tech profile on a webview
 
 <p align="center">
     <img src="/assets/webview.png">
