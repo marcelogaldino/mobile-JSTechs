@@ -1,11 +1,9 @@
 # mobile-JSTechs
 mobile-JSTechs connected with node-api API 
 
-# See a list of techs available as an API on this 
-<a href="https://node-api-jshuntt.herokuapp.com/api/products">website</a>
+# See a list of techs available as an API on this <a href="https://node-api-jshuntt.herokuapp.com/api/products">website</a>
 
-# You can find the source code
-<a href="https://github.com/marcelogaldino/node-api">here</a>
+# You can find the source code <a href="https://github.com/marcelogaldino/node-api">here</a>
 
 <p align="center">
     <img src="/assets/App.png">
