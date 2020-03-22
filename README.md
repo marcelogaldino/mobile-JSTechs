@@ -39,9 +39,9 @@ yarn install
 
 - Mobile
     - <img src="https://img.shields.io/badge/reactNativeGestureHandler-^1.6.1-purple"/> 
-    - <img src="https://img.shields.io/badge/react-navigation-stack-^2.3.4-purple"/> 
+    - <img src="https://img.shields.io/badge/reactNavigationStack-^2.3.4-purple"/> 
     - <img src="https://img.shields.io/badge/reactNativeWebview-^9.0.1-purple"/> 
-    - <img src="https://img.shields.io/badge/react-navigation-2.18.3-purple"/> 
+    - <img src="https://img.shields.io/badge/reactNavigation-2.18.3-purple"/> 
     - <img src="https://img.shields.io/badge/axios-^0.19.2-purple"/> 
 
 <br>
