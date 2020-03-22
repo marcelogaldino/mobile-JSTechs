@@ -21,7 +21,7 @@ mobile-JSTechs connected with node-api API
 <img src="https://img.shields.io/github/stars/marcelogaldino/mobile-JSTechs"/>
 <img src="https://img.shields.io/github/forks/marcelogaldino/mobile-JSTechs"/>
 <img src="https://img.shields.io/github/issues/marcelogaldino/mobile-JSTechs"/>
-<img src="https://img.shields.io/github/license/marcelogaldino/mobile-JSTechs"/>
+
 
 ## Developed with
 
